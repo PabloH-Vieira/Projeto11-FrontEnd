@@ -131,7 +131,7 @@ header{
 .home-text p{
     margin: 3rem auto 4rem;
     width: 60%;
-    color:var(--color8);
+    color:var(--color5);
     font-size: 1.7rem;
 }
 
@@ -150,6 +150,6 @@ header{
     }
     to{
         transform: translateX(10px);
-        filter: drop-shadow(var(--color2) 0 0 5rem);
+        filter: drop-shadow(var(--color1) 0 0 5rem);
     }
 }
